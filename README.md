@@ -194,7 +194,7 @@ plt.show()
 
 ## Output:
 
-![output](Output.png)
+<img width="760" alt="o11" src="https://github.com/pavankishore-AIDS/demo/assets/94154941/47ce1014-9a78-4bdb-91e9-c065b9b3b8c4">
 
 ## Result:
 
